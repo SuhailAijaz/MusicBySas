@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicBySas</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="favourite">Favourites</string>
+    <string name="playlist">Playlist</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="appicon">  Welcome to \n World of Music </string>
+</resources>
